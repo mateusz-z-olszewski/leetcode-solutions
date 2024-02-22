@@ -2,7 +2,7 @@ package leetcode.editor.en;
 
 import java.util.*;
 
-public class TwoSum {
+class TwoSum {
 
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
