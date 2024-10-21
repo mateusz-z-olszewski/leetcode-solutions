@@ -1,5 +1,6 @@
 package leetcode.editor.en;
 
+import java.util.*;
 
 class LongestSubstringWithoutRepeatingCharacters {
 
