@@ -1,7 +1,5 @@
 package leetcode.editor.en;
 
-import java.util.*;
-
 class PlusOne {
 
 //leetcode submit region begin(Prohibit modification and deletion)
