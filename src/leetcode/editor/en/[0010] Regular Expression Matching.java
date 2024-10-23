@@ -93,8 +93,8 @@ class Solution {
          * token against the string starting from its 5th character inclusive.
          */
         record State(
-            int stringIndex,
-            int tokenIndex
+                int stringIndex,
+                int tokenIndex
         ){
             static State INITIAL_STATE = new State(0, 0);
         }
