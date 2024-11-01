@@ -1,5 +1,7 @@
 package leetcode.editor.en;
 
+import java.util.List;
+
 class FindFirstAndLastPositionOfElementInSortedArray {
 
 //leetcode submit region begin(Prohibit modification and deletion)
@@ -16,7 +18,9 @@ class Solution {
             else return 1;
         });
         return new int[]{start, end};
+
     }
+    
 
 
     /**
