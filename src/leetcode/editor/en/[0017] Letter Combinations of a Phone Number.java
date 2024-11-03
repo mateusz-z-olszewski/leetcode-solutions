@@ -37,10 +37,4 @@ class Solution {
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
-    public static void main(String[] args) {
-        System.out.println(
-            new LetterCombinationsOfAPhoneNumber().new Solution().letterCombinations("23")
-        );
-    }
-
 }
